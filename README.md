@@ -1,7 +1,7 @@
 <h1>TP0 de Web: Aprendendo Git</h1>
 
 Link para meu perfil na Digital Innovation One (DIO):
-<a href="https://web.digitalinnovation.one/users/Jean_pvb?tab=achievements">
+<a href="https://web.digitalinnovation.one/users/jean_pvb?tab=achievements">
   perfil
 </a>
 
